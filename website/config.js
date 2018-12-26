@@ -1,6 +1,6 @@
 var api = 'http://18.222.106.239:8117'
 
-var api_blockexplorer = 'http://18.222.106.239:1118'
+var api_blockexplorer = 'http://18.222.106.239:9222'
 
 var poolHost = '18.222.106.239'
 
