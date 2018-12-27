@@ -472,7 +472,7 @@
 
     function getPayoutLevel(address) {
         $.ajax({
-            url: api + '/get_miner_payout_level?address=' + address,
+            url: api + '/get_miner_payoutLevel?address=' + address,
             dataType: 'json',
             cache: 'false'
         }).done(function(data){
