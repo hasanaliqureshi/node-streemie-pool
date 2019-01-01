@@ -17,7 +17,7 @@
         "async": "1",
         "base58-native": "*",
         "bignum": "*",
-        "cli-color": "*",
+        "cli-color": "^1.4.0",
         "dateformat": "*",
         "redis": "*",
         "safe-buffer": "^5.1.2",

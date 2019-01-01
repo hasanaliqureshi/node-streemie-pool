@@ -91,10 +91,11 @@
         "enabled": true,
         "interval": 120,
         "maxAddresses": 50,
-        "transferFee": 10000,
-        "minPayment": 100000,
-        "maxTransactionAmount": 10000000,
-        "denomination": 100
+	"mixin":0,
+        "transferFee": 100,
+        "minPayment": 715000,
+        "maxTransactionAmount": 1430000,
+        "denomination": 10
     },
 
     "blockUnlocker": {
