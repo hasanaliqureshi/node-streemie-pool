@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
+![image](https://streemie.com/images/streemie.png)
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/node-turtle-pool.svg?branch=master)](https://travis-ci.org/turtlecoin/node-turtle-pool)
@@ -7,9 +7,9 @@
 [![Build Status](https://travis-ci.org/turtlecoin/node-turtle-pool.svg?branch=development)](https://travis-ci.org/turtlecoin/node-turtle-pool)
 
 
-turtle-pool (for NodeJS LTS)
+streemie-pool (for NodeJS LTS)
 ====================
-Formerly known as cryptonote-forknote-pool, forked from Forknote Project.
+Formerly known as turtle-pool, forked from TurtleCoin Project.
 
 High performance Node.js (with native C addons) mining pool for Cryptonote based coins, created with the Forknote software such as Bytecoin, Dashcoin, etc..
 
