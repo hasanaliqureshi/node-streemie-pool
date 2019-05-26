@@ -2,7 +2,7 @@
     "coin": "Streemie",
     "symbol": "STRM",
     "coinUnits": 10000,
-    "coinDifficultyTarget": 60,
+    "coinDifficultyTarget": 30,
 
     "logging": {
         "files": {
@@ -19,7 +19,7 @@
   "poolServer": {
     "enabled": true,
     "clusterForks": "auto",
-    "poolAddress": "Strmq4GvMtvhtBKKTZUTU6aeC5WELxAQXKvtdCudy4XaH5ek7SEW3DrU45ebACkr5sjXyQePKE13udoVZJSnZ7EN6m1h4ukyAoj",
+    "poolAddress": "Strmq4dkC5XcA8oq7e3oe5V5J5b117vG6FMTXS1jAFWB5aVLg9LLpaR7ki3NbbtvzbCs5d8mdtPRufTWesAuvzzuYupe71YKWUD",
     "blockRefreshInterval": 1000,
     "minerTimeout": 3600,
     "ports": [
@@ -120,12 +120,12 @@
     },
 
     "daemon": {
-        "host": "3.17.159.23",
+        "host": "3.19.89.227",
         "port": 9322
     },
 
     "wallet": {
-        "host": "3.17.159.23",
+        "host": "3.19.89.227",
         "port": 8070,
         "password": "Devel0pment"
     },
