@@ -1,4 +1,4 @@
-![image](https://streemie.com/images/streemie.png)
+![image](https://streemie.com/appv2/themes/streemie/img/logo.png)
 
 #### Master Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/node-turtle-pool.svg?branch=master)](https://travis-ci.org/turtlecoin/node-turtle-pool)
